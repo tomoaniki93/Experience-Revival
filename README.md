@@ -1,2 +1,2 @@
 # Experience-Revival
-Little MMORPG inspired of Ragnarok
+Little MMORPG inspired of Ragnarok Online
