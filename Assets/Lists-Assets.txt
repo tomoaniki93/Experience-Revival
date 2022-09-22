@@ -1,3 +1,19 @@
+++ \Thèmes\Mirage_base.flac
+---------------------------------
+++ \Ambiances\Caverne.mp3
+++ \Ambiances\Church.mp3
+++ \Ambiances\Death.mp3
+++ \Ambiances\Land01.mp3
+++ \Ambiances\Land02.mp3
+++ \Ambiances\Land03.mp3
+++ \Ambiances\Land04.mp3
+++ \Ambiances\Land05.mp3
+++ \Ambiances\Land06.mp3
+++ \Ambiances\Land07.mp3
+++ \Ambiances\Land08.mp3
+++ \Ambiances\PVP.mp3
+++ \Ambiances\PVP2.mp3
+---------------------------------
 ++ \Graphiques\Icones\Armor01.jpg
 ++ \Graphiques\Icones\Armor02.jpg
 ++ \Graphiques\Icones\Spell01.jpg
@@ -60,3 +76,5 @@
 ++ \Graphiques\FONTS\Roboto-Black.ttf
 ++ \Graphiques\FONTS\Roboto-Bold.ttf
 ++ \Graphiques\FONTS\Roboto-Regular.ttf
+---------------------------------
+++ \VFX\
