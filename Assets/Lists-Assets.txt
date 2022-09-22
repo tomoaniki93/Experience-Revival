@@ -1,18 +1,18 @@
-++ \Thèmes\Mirage_base.flac
+++ \Audio\Thèmes\Mirage_base.flac
 ---------------------------------
-++ \Ambiances\Caverne.mp3
-++ \Ambiances\Church.mp3
-++ \Ambiances\Death.mp3
-++ \Ambiances\Land01.mp3
-++ \Ambiances\Land02.mp3
-++ \Ambiances\Land03.mp3
-++ \Ambiances\Land04.mp3
-++ \Ambiances\Land05.mp3
-++ \Ambiances\Land06.mp3
-++ \Ambiances\Land07.mp3
-++ \Ambiances\Land08.mp3
-++ \Ambiances\PVP.mp3
-++ \Ambiances\PVP2.mp3
+++ \Audio\Ambiances\Caverne.mp3
+++ \Audio\Ambiances\Church.mp3
+++ \Audio\Ambiances\Death.mp3
+++ \Audio\Ambiances\Land01.mp3
+++ \Audio\Ambiances\Land02.mp3
+++ \Audio\Ambiances\Land03.mp3
+++ \Audio\Ambiances\Land04.mp3
+++ \Audio\Ambiances\Land05.mp3
+++ \Audio\Ambiances\Land06.mp3
+++ \Audio\Ambiances\Land07.mp3
+++ \Audio\Ambiances\Land08.mp3
+++ \Audio\Ambiances\PVP.mp3
+++ \Audio\Ambiances\PVP2.mp3
 ---------------------------------
 ++ \Graphiques\Icones\Armor01.jpg
 ++ \Graphiques\Icones\Armor02.jpg
