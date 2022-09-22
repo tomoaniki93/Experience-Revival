@@ -1,1 +1,62 @@
- 
+++ \Graphiques\Icones\Armor01.jpg
+++ \Graphiques\Icones\Armor02.jpg
+++ \Graphiques\Icones\Spell01.jpg
+++ \Graphiques\Icones\Spell02.jpg
+---------------------------------
+++ \Graphiques\Anims\progress_bar_horizontal.anim
+++ \Graphiques\Anims\progress_bar_circle.anim
+++ \Graphiques\Anims\Progress.controller
+++ \Graphiques\Anims\Progress (Indeterminate).controller
+---------------------------------
+++ \Graphiques\GUI\*.png
+---------------------------------
+++ \Graphiques\Prefabs\
+---
+++ \Graphiques\Prefabs\windows\About.prefab
+++ \Graphiques\Prefabs\windows\Character.prefab
+++ \Graphiques\Prefabs\windows\Chat.prefab
+++ \Graphiques\Prefabs\windows\Hint.prefab
+++ \Graphiques\Prefabs\windows\Inventory.prefab
+++ \Graphiques\Prefabs\windows\Login.prefab
+++ \Graphiques\Prefabs\windows\Map Panel.prefab
+++ \Graphiques\Prefabs\windows\Pause Window.prefab
+++ \Graphiques\Prefabs\windows\PopUp Message.prefab
+++ \Graphiques\Prefabs\windows\Progress Bar (Circle).prefab
+++ \Graphiques\Prefabs\windows\Quest.prefab
+++ \Graphiques\Prefabs\windows\Quests.prefab
+++ \Graphiques\Prefabs\windows\Settings.prefab
+++ \Graphiques\Prefabs\windows\Spell Bar.prefab
+++ \Graphiques\Prefabs\windows\Unitframe.prefab
+++ \Graphiques\Prefabs\windows\Window.prefab
+---
+++ \Graphiques\Prefabs\ui_elements\Button Accept.prefab
+++ \Graphiques\Prefabs\ui_elements\Button Cancel.prefab
+++ \Graphiques\Prefabs\ui_elements\Button Close.prefab
+++ \Graphiques\Prefabs\ui_elements\Button Icon.prefab
+++ \Graphiques\Prefabs\ui_elements\Checkbox.prefab
+++ \Graphiques\Prefabs\ui_elements\Dropdown.prefab
+++ \Graphiques\Prefabs\ui_elements\Icon (Spell).prefab
+++ \Graphiques\Prefabs\ui_elements\Icon.prefab
+++ \Graphiques\Prefabs\ui_elements\Input Field (dark).prefab
+++ \Graphiques\Prefabs\ui_elements\Input Field (light).prefab
+++ \Graphiques\Prefabs\ui_elements\List item (dark) (selected).prefab
+++ \Graphiques\Prefabs\ui_elements\List item (dark).prefab
+++ \Graphiques\Prefabs\ui_elements\Little Hint.prefab
+++ \Graphiques\Prefabs\ui_elements\Progress Bar (Circle).prefab
+++ \Graphiques\Prefabs\ui_elements\Progress Bar (Horizontal).prefab
+++ \Graphiques\Prefabs\ui_elements\Radio Button.prefab
+++ \Graphiques\Prefabs\ui_elements\Scrollbar Vertical.prefab
+++ \Graphiques\Prefabs\ui_elements\Slider.prefab
+++ \Graphiques\Prefabs\ui_elements\Tab (selected).prefab
+++ \Graphiques\Prefabs\ui_elements\Tab.prefab
+---------------------------------
+++ \Graphiques\Croquis\croquisa.jpg
+++ \Graphiques\Croquis\croquisb.jpg
+++ \Graphiques\Croquis\croquisc.jpg
+++ \Graphiques\Croquis\MAP.jpg
+---------------------------------
+++ \Graphiques\FONTS\GeorgiaPro-Regular.ttf
+++ \Graphiques\FONTS\GeorgiaPro-SemiBold.ttf
+++ \Graphiques\FONTS\Roboto-Black.ttf
+++ \Graphiques\FONTS\Roboto-Bold.ttf
+++ \Graphiques\FONTS\Roboto-Regular.ttf
